@@ -1,11 +1,9 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:48.472334
-#+TITLE: 斥謬
-#+PROPERTY: CBETA_ID X58n1020
-#+PROPERTY: ID KR6e0139
-#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 58, No. 1020
-#+PROPERTY: VOL 58
-#+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 斥謬 / master
+#+DATE: 2015-11-26 14:21:11.190653
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         X|【卍續】    |
 
-<pb:KR6e0139_X_000-0589c>
+* 目次
+* 卷
+** [[file:KR6e0139_001.txt][斥謬 1]]
